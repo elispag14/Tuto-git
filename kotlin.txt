@@ -1,2 +1,8 @@
-Usuario: Paola Giraldo
-Correo: elispag14@yahoo.es
+=========================
+    DATOS DEL USUARIO
+=========================
+
+👤 Usuario: elispag14  
+📧 Correo: elispag14@yahoo.es  
+
+=========================
